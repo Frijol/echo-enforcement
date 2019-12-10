@@ -17,6 +17,7 @@
 ### Columns of interest
 
 #### Necessary to the project
+* REGISTRY_ID
 * FAC_QTRS_WITH_NC
 * FAC_COMPLIANCE_STATUS
 * **FAC_3YR_COMPLIANCE_HISTORY**
