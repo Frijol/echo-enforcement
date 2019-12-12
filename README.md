@@ -1,8 +1,9 @@
 # ECHO Data Project
 
-**Question: is anyone gaming the ECHO enforcement algorithm?**
+**Question: how well are EPA emissions permit violations enforced?**
 
-* Enforcement algorithm: 10 continuous quarters of noncompliance (check this/cite)
+[Slides with findings](https://docs.google.com/presentation/d/11PNQkjV3J_iWzkZfs0P0PrNhYMGDV10F1Y7hQVsGfTs/edit#slide=id.p)
+
 * Research plan: Pull data of entities with violations, make a histogram of the number of contiguous months they are in violation. Is there any unusual shape around the algorithm limit for enforcement?
 
 ## What data is needed?
